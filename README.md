@@ -1,6 +1,13 @@
 Welcome to the intro to i01 InMoov services in MRL. 
 = 
 
+Intro
+= 
+
+I'm kind of working backwards here, so some of the how-to basics is worked into audioPeak Jaw movements for now. 
+
+More updates will be added to this page eventually.
+
 audioPeak Jaw Movements
 =
 
