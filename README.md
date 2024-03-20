@@ -5,12 +5,17 @@ Welcome to the intro to i01 InMoov services in MRL.
 audioPeak Jaw Movements
 =
 
-I'm eating lunch so a proper write up of this isn't done yet. Soon. lol. 
-
-Make sure to turn off ```Mouth Control``` from the ```i01``` head icon if you had it enabled prior to this. 
+*UPDATING* 
 
 Controller > Mouth (LocalSpeech) > i01.Head > Calibrate Jaw settings > Python tab
 
+Make sure to turn off ```Mouth Control``` from the ```i01``` head icon if you had it enabled prior to this. 
+
+You can copy and paste this into the ```i01.mouth``` tab to hear the same example.
+
+```xml
+Hello. I am the voice of David from Microsoft's local speech. This is an example of me speaking.
+```
 
 ============
 
