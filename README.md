@@ -119,7 +119,7 @@ Once you are happy with your jaw's movements, return to the ```runtime``` tab an
 
 NOTE: Your results will also depend on the ```mouth``` AKA ```Text-to-speech``` you are currently using. 
 - I suggest using ```LocalSpeech``` because it works without anything else needed.
-- You can use Amazon Polly or NovelAI if you have an account and enter in your API in the ```i01.mouth.yml``` side ```API:``` or ```Token:```.  
+- You can use Amazon Polly or NovelAI if you have an account and enter in your API in the ```i01.mouth.yml``` beside ```API:``` or ```Token:```.  
 - Avoid MarySpeech with audioPeak. (More details below)
 
 Anytime you ```save config``` a new folder with whatever you named your config will be saved in ```MRL1.1.****\data\config```
