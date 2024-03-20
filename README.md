@@ -7,6 +7,8 @@ audioPeak Jaw Movements
 
 I'm eating lunch so a proper write up of this isn't done yet. Soon. lol. 
 
+Make sure to turn off ```Mouth Control``` from the ```i01``` head icon if you had it enabled prior to this. 
+
 Controller > Mouth (LocalSpeech) > i01.Head > Calibrate Jaw settings > Python tab
 
 
