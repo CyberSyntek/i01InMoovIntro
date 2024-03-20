@@ -48,6 +48,8 @@ Now you can adjust the figures until you are happy with the output your jaw is p
 Once you are happy with your jaw's movements, return to the Runtime tab and save your config.
 
 NOTE: Your results will also depend on the ```mouth``` AKA ```Text-to-speech``` you are currently using. 
-- It is important to remember that ```Maryspeech is evil``` and will NOT work well for your jaw. 
 - Use LocalSpeech / Polly (Requires API) / NovelAI (Requires API)
 
+It is important to remember that ```Maryspeech is evil``` and will NOT work well for your jaw. 
+
+![EvilIsMary](https://github.com/CyberSyntek/i01InMoovIntro/assets/81597534/9e5063cb-b536-4d82-8030-b929c26a200b)
