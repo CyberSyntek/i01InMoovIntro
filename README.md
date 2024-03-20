@@ -18,9 +18,9 @@ From the ```python``` tab, create a ```new``` file and paste this script into it
 i01_head_jaw.subscribe('i01.mouth.audioFile', 'publishPeak', 'moveTo')
 ```
 
-Now hit execute and that will have subscribed your jaw to ```i01.mouth.audioFile```.
+Now hit ```execute``` and that will have subscribed your jaw to ```i01.mouth.audioFile```.
 
-Now click the ```Runtime``` tab and ```save config```.  This will create the needed data in your ```data/config``` folder. 
+Now click the ```Runtime``` tab and ```save config```.  This will create the needed data in your ```data\config``` folder. 
 
 Now back to the ```python``` tab and enter in the following and ```execute```.
 
