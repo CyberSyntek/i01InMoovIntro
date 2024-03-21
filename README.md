@@ -11,6 +11,13 @@ More updates will be added to this page eventually.
 audioPeak Jaw Movements
 =
 
+Here is a video tutorial on audioPeak for those interested in having the visual examples. ```click image below```
+
+<a href="https://youtu.be/Q55iQEN8Z1Y?si=eoSieSf14OGaoMij" />
+<img src="https://github.com/CyberSyntek/i01InMoovIntro/assets/81597534/57f5ddc9-0ead-404e-909e-66d4a3c61134" />
+
+Getting Started
+= 
 
 Click the ```thumb``` which will launch the ```i01``` InMoov UI.
 
