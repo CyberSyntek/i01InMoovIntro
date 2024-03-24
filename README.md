@@ -115,7 +115,7 @@ config = AudioFileConfig()
 config.peakDelayMs = 300            #JAW SERVO DELAY ADJUSTMENT: If you need to delay the servo to line up with audio.
 config.peakMultiplier = 250.0       #JAW SERVO OPEN/CLOSE RANGE: How much the mouth can open.
 config.peakSampleInterval = 1.0     #JAW SERVO SENSITIVITY: How frequently the servo can respond to the audioPeak. 
-i01_mouth.audioFile.apply(config)
+i01_mouth_audioFile.apply(config)
 
 i01_mouth.speak('hello, this is a test of the peak from mouth audio file')
 ```
